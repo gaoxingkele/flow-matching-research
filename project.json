@@ -62,6 +62,7 @@
       "boundary": "Correction applies to this research project; active historical campaign configuration is preserved."
     }
   ],
+  "data_storage_config": "configs/storage/data_storage.v1.json",
   "configuration_paths_relative_to": "benchmark submodule / registered asset root",
   "local_catalog": "materials/catalog.json",
   "local_acquisition_report": "materials/acquisition_report.json"
