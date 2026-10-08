@@ -6,3 +6,4 @@ __pycache__/
 local/
 *.part
 *.aria2
+results/*/complete_metrics/all_tsad_numeric_metrics.csv
