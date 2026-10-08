@@ -7,3 +7,4 @@ local/
 *.part
 *.aria2
 results/*/complete_metrics/all_tsad_numeric_metrics.csv
+results/*/complete_metrics_*/all_tsad_numeric_metrics.csv
