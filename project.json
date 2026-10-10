@@ -260,7 +260,9 @@
   "native_grasp_extra_exact_recovery_queues": [
     "configs/experiments/fm_native_grasp_tau025_exact_recovery.v3.json"
   ],
-  "latest_full_experiment_execution_progress": "projects/flow_matching_research/results/2026-10-11/grasp_gpu_and_full_audit_resume_v2/README.md",
+  "latest_full_experiment_execution_progress": "projects/flow_matching_research/results/2026-10-11/spectral_capacity_resume_v3/README.md",
+  "spectral_full_capacity_preflight_runtime": "configs/runtime/fm_spectral_table2_spectral_preflight.v3.json",
+  "spectral_table2_full_capacity_queue_runtime": "configs/runtime/fm_spectral_table2_gpu_memory.v3.json",
   "configuration_paths_relative_to": "benchmark submodule / registered asset root",
   "local_catalog": "materials/catalog.json",
   "local_acquisition_report": "materials/acquisition_report.json"
