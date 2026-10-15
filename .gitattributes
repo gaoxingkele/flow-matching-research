@@ -4,3 +4,5 @@
 
 # Native TimeGAN receipt hashes retain the original report bytes.
 results/**/README.rst -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+# Archived source snapshots must retain the exact bytes used in execution hashes.
+results/**/*.py -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
